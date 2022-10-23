@@ -1,6 +1,6 @@
 # 规划兼职工作
 
-&emsp;&emsp;[源码](./solution.c)
+&emsp;&emsp;[源码](./solution.cpp)
 
 &emsp;&emsp;这是一个动态规划问题.
 

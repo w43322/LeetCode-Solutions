@@ -1,6 +1,6 @@
 # 使数组相等的最小开销
 
-&emsp;&emsp;[源码](./solution.c)
+&emsp;&emsp;[源码](./solution.cpp)
 
 &emsp;&emsp;令 $equalValue$ 为使数组所有元素都等于的数字, 令 $totalCost$ 为把数组所有元素都变成 $equalValue$ 的开销, 问题就转化成了求函数 $totalCost = f(equalValue)$ 的最小值. 从直觉上来说, 该函数的二阶导数应该是单调的, 因此可以使用三分法解决.
 
